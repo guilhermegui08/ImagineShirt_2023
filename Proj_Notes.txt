@@ -1,0 +1,4 @@
+Páginas:
+	-Lista de itens
+	-Carrinho de compras
+	-Login
