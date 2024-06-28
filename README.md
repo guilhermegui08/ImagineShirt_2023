@@ -74,4 +74,4 @@ The application supports four types of users:
 2. Access the application in your web browser at `http://localhost:8000`.
 
 ## License
-This project is licensed under the GPL-3.0 License. See the LICENSE file for details.
+This project is licensed under the GPL-3.0 license. See the [LICENSE](LICENSE) file for details.
